@@ -71,7 +71,7 @@ Aamchi मुंबई enables NGOs to efficiently manage events while allowing 
 ![Bot](./screenshots/telegram.png)  
 
 ### 8️⃣ Community
-![social](./screenshots/Social.jpg) 
+![social](./screenshots/Social.png) 
 
 ---
 
