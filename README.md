@@ -77,7 +77,6 @@ Aamchi मुंबई enables NGOs to efficiently manage events while allowing 
 
 ## 📜 **Credits**  
 - **Developers**: [@Shubham_Bendre](https://github.com/Shubham-Bendre), [@Malhar_Singh](https://github.com/Malhar2400), [@Yash_Chougule](https://github.com/YxASH)
-- **Inspiration**: Apple Invite & AI-powered event management  
 
 ---
 Let me know if you need any more tweaks! 🚀🔥
