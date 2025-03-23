@@ -58,23 +58,20 @@ Aamchi मुंबई enables NGOs to efficiently manage events while allowing 
 ### 3️⃣ Event Details
 ![Event Details](./screenshots/EventDetails.png)  
 
-### 4️⃣ Add Event  
-![Add Event](./screenshots/AddEvent.png)  
-
-### 5️⃣ Guest RSVP Page  
+### 4️⃣ Guest RSVP Page  
 ![RSVP](./screenshots/RSVPPage.png)  
 
-### 6️⃣ Image Gallery
+### 5️⃣ Image Gallery
 ![Image Gallery](./screenshots/Gallery.png)  
 
-### 7️⃣ Face Recognition in Album
+### 6️⃣ Face Recognition in Album
 ![Face Detection](./screenshots/FaceSearch.png)  
 
-### 8️⃣ Api Page
-![Api Page](./screenshots/APIDcoumentation.png)  
+### 7️⃣ Telegram Bot
+![Bot](./screenshots/telegram.png)  
 
-### 9️⃣ QR Code Email  
-![QR Email](./screenshots/email&Qr.jpg) 
+### 8️⃣ Community
+![social](./screenshots/Social.jpg) 
 
 ---
 
